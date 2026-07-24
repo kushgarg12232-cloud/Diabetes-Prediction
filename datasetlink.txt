@@ -1,0 +1,2 @@
+Dataset Path: "C:\Users\Hp\Downloads\diabetes.csv"
+Google Colab: https://colab.research.google.com/drive/1WZO6nUsKHJ0nO-qWZCS5_0LnR_zfqgtq?usp=sharing
